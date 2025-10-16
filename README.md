@@ -101,4 +101,4 @@ int main() {
 ## 👨‍💻 Author
 
 Developed by **Suraj Vikas Gardi**
-📧 Contact: surajgardi0707@gmail.com(mailto:surajgardi0707@gmail.com)
+📧 Contact: surajgardi0707@gmail.com
